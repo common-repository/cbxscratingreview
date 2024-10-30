@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+.cbxscratingreview-error {
+	color: #cc0000;
+}
+
+
+/*swal starts*/
+.swal2-popup .swal2-title{
+	font-size: 14px !important;
+}
+
+#swal2-content{
+	text-align: left !important;
+
+}
+#swal2-content p {
+	line-height: 1.5rem;
+	margin-top: 1.5rem;
+	margin-bottom: 0;
+}
+#swal2-content ul,
+#swal2-content ol {
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+	list-style: circle;
+	margin-left: 20px;
+}
+#swal2-content ol{
+	list-style: decimal;
+}
+
+#swal2-content ul li,
+#swal2-content ol li {
+	line-height: 1.5rem;
+	margin-bottom: 5px;
+}
+#swal2-content ul ul,
+#swal2-content ol ul,
+#swal2-content ul ol,
+#swal2-content ol ol {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#swal2-content blockquote {
+	line-height: 1.5rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+#swal2-content h1,
+#swal2-content h2,
+#swal2-content h3,
+#swal2-content h4,
+#swal2-content h5,
+#swal2-content h6 {
+	/* Change heading typefaces here */
+
+	font-family: sans-serif;
+	margin-top: 1.5rem;
+	margin-bottom: 0;
+	line-height: 1.5rem;
+}
+#swal2-content h1 {
+	font-size: 4.242rem;
+	line-height: 4.5rem;
+	margin-top: 3rem;
+}
+#swal2-content h2 {
+	font-size: 2.828rem;
+	line-height: 3rem;
+	margin-top: 3rem;
+}
+#swal2-content h3 {
+	font-size: 1.414rem;
+}
+#swal2-content h4 {
+	font-size: 0.707rem;
+}
+#swal2-content h5 {
+	font-size: 0.4713333333333333rem;
+}
+#swal2-content h6 {
+	font-size: 0.3535rem;
+}
+#swal2-content table {
+	margin-top: 1.5rem;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+#swal2-content table td,
+#swal2-content table th {
+	padding: 0;
+	line-height: 33px;
+}
+#swal2-content code {
+	vertical-align: bottom;
+}
+/*swal ends*/

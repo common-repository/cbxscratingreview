@@ -1,0 +1,2205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Quick 5 Star Rating & Review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-21 11:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-cbxscratingreview-rating-avg-logs.php:43
+msgid " (Edit)"
+msgstr ""
+
+#: templates/widgets/latest_ratings.php:46
+msgid " rated "
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:37
+msgid " Review"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:60
+#, php-format
+msgid "%s %%"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:59
+#, php-format
+msgid "%s %% (%s Reviews)"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:56
+#, php-format
+msgid "%s %%, %s Reviews"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:238
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#. %s template
+#: includes/cbxscratingreview-tpl-loader.php:75
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:225
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:241
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:154
+msgid "(details)"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:228
+msgid "1 hour ago"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:222
+msgid "1 minute ago"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:360
+msgid "1 or above"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:79
+msgid "1 Star"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:361
+msgid "2 or above"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:78
+msgid "2 Stars"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:362
+msgid "3 or above"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:77
+msgid "3 Stars"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:363
+msgid "4 or above"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:76
+msgid "4 Stars"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:364
+msgid "5"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:968
+msgid "5 Star Reviews"
+msgstr ""
+
+#: templates/admin/settings-display.php:24
+msgid "5 Star Reviews - Settings"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:75
+msgid "5 Stars"
+msgstr ""
+
+#: includes/class-cbxscratingreview-emailalert.php:50
+#: includes/class-cbxscratingreview-emailalert.php:54
+#: includes/class-cbxscratingreview-emailalert.php:140
+#: includes/class-cbxscratingreview-emailalert.php:211
+msgid "</a>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1841
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX 5 Star Rating & Review Comment Addon</a>"
+" enables comment for rating, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1856
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX 5 Star Rating & Review myCred Addon</a> "
+"integrates with myCred plugin, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1826
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX 5 Star Rating & Review Pro Addon</a> "
+"has lots of pro and extended features, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:889
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:815
+#: admin/class-cbxscratingreview-admin.php:816
+#: admin/class-cbxscratingreview-admin.php:817
+msgid ""
+"<strong>Please note, selected page doesn't have the shortcode. Please edit "
+"the page and add the shortcode.</strong>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:825
+#: admin/class-cbxscratingreview-admin.php:837
+#: admin/class-cbxscratingreview-admin.php:848
+#, php-format
+msgid ""
+"<strong>Shortcode detected on the selected page.</strong>. <a class=\"button "
+"button-secondary\" target=\"_blank\" href=\"%s\">Browse</a> the page on "
+"frontend."
+msgstr ""
+
+#: templates/admin/dashboard.php:212
+msgid "Access our Premium Support"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:71
+msgid "Action"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:536
+msgid "Alert Status"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:83
+msgid "All Critical"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:82
+msgid "All Positive"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:72
+msgid "All Stars"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:289
+msgid "Allow Half Rating"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:278
+msgid "Allow Review Delete"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:279
+msgid "Allow user delete review from frontend"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:536
+#: public/class-cbxscratingreview-public.php:1129
+msgid "Are you cheating, huh ?"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:711
+msgid "Are you sure to delete your review, this processs can not be undone ?"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:901
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:41
+msgid "Article ID"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:49
+msgid "ASC"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:100
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:100
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:96
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:93
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:53
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:52
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:47
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:39
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:48
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:55
+msgid "Ascending"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:319
+msgid "Auto Integration for Post Type"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-avg-logs.php:28
+msgid "Average Log Manager"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2042
+#: includes/class-cbxscratingreview-rating-avg-logs.php:134
+msgid "Average Rating"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:114
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:63
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:42
+msgid "Avg Rating"
+msgstr ""
+
+#: templates/rating-review-editform.php:44
+msgid "Back to Dashboard"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:40
+#: templates/admin/admin-rating-review-review-log-view.php:185
+msgid "Back to Review Lists"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:504
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:317
+msgid "Bad"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:497
+msgid "Base Color"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:624
+msgid "BCC"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:46
+msgid "Blue"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:52
+msgid "Blue Grey"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:597
+msgid "Body"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:511
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:518
+msgid "Body Text Color"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:51
+msgid "Brown"
+msgstr ""
+
+#: templates/admin/dashboard.php:132
+msgid "Buddypress"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:103
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1269
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1223
+#: admin/class-cbxscratingreview-admin.php:1260
+#: public/class-cbxscratingreview-public.php:668
+#: public/class-cbxscratingreview-public.php:702
+msgid "Cancel this rating!"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewlratings/class-cbxscratingreviewlratings-widget.php:41
+msgid "CBX 5 Star Latest Ratings"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewmrposts/class-cbxscratingreviewmrposts-widget.php:40
+msgid "CBX 5 Star Most Rated Posts"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-cbxscratingreview-admin.php:968
+#: public/class-cbxscratingreview-public.php:1530
+#: widgets/vc_widgets/class-cbxscratingreview-editreview-vcwidget.php:31
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:34
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:33
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:30
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:38
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:30
+#: widgets/vc_widgets/class-cbxscratingreview-singlereview-vcwidget.php:31
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:31
+msgid "CBX 5 Star Rating & Review"
+msgstr ""
+
+#: templates/admin/dashboard.php:18
+msgid "CBX 5 Star Rating & Review - Helps & Updates"
+msgstr ""
+
+#: templates/admin/dashboard.php:233
+msgid "CBX 5 Star Rating & Review Plugin Information"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:617
+msgid "CC"
+msgstr ""
+
+#: templates/admin/dashboard.php:260
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1783
+#: admin/class-cbxscratingreview-admin.php:1796
+#, php-format
+msgid ""
+"Check <a href=\"%s\">Plugin Setting</a> | <a href=\"%s\" target=\"_blank\">"
+"Learn More</a>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1998
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#9c27b0 !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:465
+msgid "Choose layout"
+msgstr ""
+
+#: templates/rating-review-review-delete-button.php:19
+msgid "Click to delete this review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-setting.php:233
+msgid "Click to show hide"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/dashboard.php:296 templates/admin/sidebar.php:61
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2017
+#: includes/class-cbxscratingreview-review-logs.php:301
+#: templates/rating-review-user-dashboard.php:69
+#: templates/admin/admin-rating-review-review-log-view.php:140
+msgid "Comment"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:398
+msgid "Comment Required"
+msgstr ""
+
+#: templates/admin/sidebar.php:20
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2019
+#: admin/class-cbxscratingreview-admin.php:2044
+#: includes/class-cbxscratingreview-rating-avg-logs.php:136
+#: includes/class-cbxscratingreview-review-logs.php:303
+#: templates/rating-review-editform.php:90
+#: templates/admin/admin-rating-review-review-log-edit.php:99
+#: templates/admin/admin-rating-review-review-log-view.php:107
+msgid "Created"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:47
+msgid "Cyan"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:40
+msgid "Default"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:477
+msgid "Default Email Template"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:447
+msgid ""
+"Default guest user is shown wordpress core login form. Pro addon helps to "
+"integrate 3rd party plugins like woocommerce, restrict content pro etc."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:429
+msgid "Default number of reviews per page in pagination"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:300
+msgid "Default Review Status"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1266
+#: includes/class-cbxscratingreview-rating-avg-logs.php:162
+#: includes/class-cbxscratingreview-review-logs.php:340
+#: public/class-cbxscratingreview-public.php:712
+msgid "Delete"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:889
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: templates/rating-review-review-delete-button.php:19
+msgid "Delete Review"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:48
+msgid "DESC"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:101
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:101
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:97
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:94
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:54
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:53
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:48
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:40
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:49
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:57
+msgid "Descending"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:889
+msgid ""
+"Details table information is <a href=\"#cbxscratingreview_info\">here</a>"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:30
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:30
+msgid "Display Limit:"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:95
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:95
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:91
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:88
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:50
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:49
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:44
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:36
+msgid "Display order"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:109
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:109
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:105
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:102
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:61
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:60
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:55
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:47
+msgid "Display order by"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:64
+msgid "Display reviews per page"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1739
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1267
+#: public/class-cbxscratingreview-public.php:695
+msgid "Drag and Sort"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:542
+#: admin/class-cbxscratingreview-admin.php:645
+#: admin/class-cbxscratingreview-admin.php:737
+msgid "E-mail Format"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:41
+#: templates/rating-review-user-dashboard.php:147
+msgid "Edit"
+msgstr ""
+
+#: includes/class-cbxscratingreview-rating-avg-logs.php:43
+#: includes/class-cbxscratingreview-review-logs.php:60
+msgid "Edit Post"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:41
+#: templates/admin/admin-rating-review-review-log-edit.php:48
+#: templates/admin/admin-rating-review-review-log-view.php:183
+#: templates/admin/admin-rating-review-review-log-view.php:184
+msgid "Edit Review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:80
+msgid "Edit User"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:625
+msgid "Email BCC, for multiple use comma"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:598
+msgid ""
+"Email Body.  Syntax available - <code>{score}, {headline}, {comment}, "
+"{status}, {post_url}, {review_edit_url}</code>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:618
+msgid "Email CC, for multiple use comma."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:792
+msgid ""
+"Email content user will receive when admin modified review status. Syntax "
+"available - <code>{user_name}, {score}, {headline}, {comment}, {status}, "
+"{post_url}</code>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:701
+msgid ""
+"Email content user will receive when they make an initial review. Syntax "
+"available - <code>{user_name}, {user_email}, {score}, {headline}, {comment}, "
+"{status}, {post_url}"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:785
+msgid "Email heading user will receive when admin modify review status."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:694
+msgid "Email heading user will receive when they make an initial review."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:778
+msgid "Email subject user will receive when admin modify review status."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:686
+msgid "Email subject user will receive when they make an initial review."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:584
+msgid "Email Subject."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:147
+msgid "Email Template"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:591
+msgid "Email Template heading."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:308
+msgid "Enable Auto Integration"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:354
+msgid "Enable disable for archive pages, related with auto integration."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:342
+msgid "Enable disable for home/frontpage, related with auto integration."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:329
+msgid ""
+"Enable disable for single article(post, page or any custom post type), "
+"related with auto integration."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:409
+msgid "Enable Positive/Critical Score"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:410
+msgid "Enable positivive or critial score functionality"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:320
+msgid ""
+"Enable which post types will have auto integration features. Please note "
+"that selected post types should be within the post types selected for "
+"<strong>Post Type Support</strong>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:309
+msgid ""
+"Enable/disable auto integration, ie, add average rating before post content "
+"in archive, in details article mode add average rating information before "
+"content, rating form & review listing after content"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:191
+msgid "Following database tables will be reset/deleted and then re-created."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:211
+msgid ""
+"Following meta key created by this plugin(including addon) from wordpress "
+"core post meta table"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:200
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"wordpress core option table"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:490
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1733
+msgid "Free Support"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:561
+#: admin/class-cbxscratingreview-admin.php:664
+#: admin/class-cbxscratingreview-admin.php:756
+msgid "From Email"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:562
+#: admin/class-cbxscratingreview-admin.php:665
+#: admin/class-cbxscratingreview-admin.php:757
+msgid "From Email Address."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:554
+#: admin/class-cbxscratingreview-admin.php:657
+#: admin/class-cbxscratingreview-admin.php:749
+msgid "From Name"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:872
+msgid "Frontend Single Review Edit Page"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:880
+msgid "Frontend Single Review View Page"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:864
+msgid "Frontend User Dashboard"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:143
+msgid "General"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:229
+msgid "General Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:35
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1000
+msgid "Global Setting"
+msgstr ""
+
+#: templates/admin/dashboard.php:22
+msgid "Go to Settings"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:320
+msgid "Good"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:321
+msgid "Gorgeous"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:49
+msgid "Green"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:185
+#: includes/class-cbxscratingreview-helper.php:200
+msgid "Guest"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:446
+msgid "Guest User Login Form"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:483
+msgid "Header Image"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:590
+msgid "Heading"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2016
+#: includes/class-cbxscratingreview-review-logs.php:300
+#: templates/rating-review-user-dashboard.php:68
+#: templates/admin/admin-rating-review-review-log-view.php:134
+msgid "Headline"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:376
+msgid "Headline Required"
+msgstr ""
+
+#: templates/admin/dashboard.php:200 templates/admin/sidebar.php:10
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1006
+msgid "Helps & Updates"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:547
+#: admin/class-cbxscratingreview-admin.php:650
+#: admin/class-cbxscratingreview-admin.php:742
+msgid "HTML"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codeboxr.com/product/cbx-single-criteria-rating-review-for-wordpress/"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2011
+#: admin/class-cbxscratingreview-admin.php:2039
+#: includes/class-cbxscratingreview-rating-avg-logs.php:131
+#: includes/class-cbxscratingreview-review-logs.php:295
+msgid "ID"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:290
+msgid ""
+"If half rating enabled, user can rate .5, 1.5, 2.5, 3.5, 4.5 with regular 1, "
+"2,3,4,5 values."
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:262
+#, php-format
+msgid "in %s hours"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:256
+#, php-format
+msgid "in %s minutes"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:275
+#, php-format
+msgid "in %s weeks"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:253
+msgid "in a minute"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:259
+msgid "in an hour"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:44
+msgid "Indigo"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-singlereview-elemwidget.php:36
+#: widgets/vc_widgets/class-cbxscratingreview-singlereview-vcwidget.php:27
+msgid "Individual Review Display"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-singlereview-vcwidget.php:28
+msgid "Individual Review Display Widget Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-editreview-elemwidget.php:36
+#: widgets/vc_widgets/class-cbxscratingreview-editreview-vcwidget.php:27
+msgid "Individual Review Edit"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-editreview-elemwidget.php:81
+#: widgets/vc_widgets/class-cbxscratingreview-editreview-vcwidget.php:28
+msgid "Individual Review Edit Widget Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-singlereview-elemwidget.php:81
+msgid "Individual Review Widget Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:399
+msgid "Is comment mandatory to write a review?"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:377
+msgid "Is headline mandatory to write a review?"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1016
+msgid "It will be published after admin approval and you will be notified."
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:219
+msgid "just now"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-editreview-elemwidget.php:90
+#: widgets/elementor_widgets/class-cbxscratingreview-singlereview-elemwidget.php:90
+#: widgets/vc_widgets/class-cbxscratingreview-editreview-vcwidget.php:39
+#: widgets/vc_widgets/class-cbxscratingreview-singlereview-vcwidget.php:39
+msgid "Keep default for general single review page use"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:86
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:86
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:86
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:43
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:42
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:39
+msgid "Keep empty to hide"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:244
+msgid "last month"
+msgstr ""
+
+#: templates/rating-review-editform.php:108
+#: templates/admin/admin-rating-review-review-log-edit.php:117
+#: templates/admin/admin-rating-review-review-log-view.php:158
+msgid "Last Update"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:125
+#: templates/admin/admin-rating-review-review-log-view.php:166
+msgid "Last Update By"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:401
+#: public/class-cbxscratingreview-public.php:410
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:36
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:88
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:45
+#: widgets/classic_widgets/cbxscratingreviewlratings/class-cbxscratingreviewlratings-widget.php:94
+#: widgets/classic_widgets/cbxscratingreviewlratings/class-cbxscratingreviewlratings-widget.php:175
+msgid "Latest Ratings"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewlratings/class-cbxscratingreviewlratings-widget.php:44
+msgid "Latest Ratings as per different filter"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:31
+msgid "Latest Ratings Widget"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:78
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:32
+msgid "Latest Ratings Widget Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:124
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:124
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:75
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:74
+msgid "Limit"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:709
+msgid "Load More"
+msgstr ""
+
+#: templates/rating-review-reviews-list-more.php:22
+msgid "Load more"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:710
+msgid "Loading next page ..."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2045
+#: includes/class-cbxscratingreview-rating-avg-logs.php:137
+msgid "Modified"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:357
+#: public/class-cbxscratingreview-public.php:365
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:36
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:88
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:44
+#: widgets/classic_widgets/cbxscratingreviewmrposts/class-cbxscratingreviewmrposts-widget.php:93
+#: widgets/classic_widgets/cbxscratingreviewmrposts/class-cbxscratingreviewmrposts-widget.php:184
+msgid "Most Rated Posts"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewmrposts/class-cbxscratingreviewmrposts-widget.php:43
+msgid "Most rated posts as per different filter widget"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:30
+msgid "Most Rated Posts Widget"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:78
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:31
+msgid "Most Rated Posts Widget Settings"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:45
+msgid "Most Recent"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:549
+#: admin/class-cbxscratingreview-admin.php:652
+#: admin/class-cbxscratingreview-admin.php:744
+msgid "Multipart/mixed(attachment)"
+msgstr ""
+
+#: templates/admin/dashboard.php:146
+msgid "myCred"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:658
+#: admin/class-cbxscratingreview-admin.php:750
+msgid "Name of sender.  Syntax available - <code>{sitename}</code>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:555
+msgid "Name of sender. Syntax available - <code>{sitename}</code>"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:45
+msgid "Navy"
+msgstr ""
+
+#: includes/class-cbxscratingreview-emailalert.php:34
+#: includes/class-cbxscratingreview-emailalert.php:121
+msgid "New Review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:700
+msgid "New Review Email Body"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:693
+msgid "New Review Email Heading"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:685
+msgid "New Review Email Subject"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:586
+#: admin/class-cbxscratingreview-admin.php:688
+#: includes/class-cbxscratingreview-emailalert.php:33
+#: includes/class-cbxscratingreview-emailalert.php:120
+msgid "New Review Notification"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:593
+#: admin/class-cbxscratingreview-admin.php:696
+msgid "New Review Received"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:278
+msgid "next month"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:272
+msgid "next week"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:284
+#: admin/class-cbxscratingreview-admin.php:295
+#: admin/class-cbxscratingreview-admin.php:314
+#: admin/class-cbxscratingreview-admin.php:335
+#: admin/class-cbxscratingreview-admin.php:348
+#: admin/class-cbxscratingreview-admin.php:360
+#: admin/class-cbxscratingreview-admin.php:371
+#: admin/class-cbxscratingreview-admin.php:382
+#: admin/class-cbxscratingreview-admin.php:393
+#: admin/class-cbxscratingreview-admin.php:404
+#: admin/class-cbxscratingreview-admin.php:415
+#: admin/class-cbxscratingreview-admin.php:441
+#: admin/class-cbxscratingreview-admin.php:460
+#: admin/class-cbxscratingreview-admin.php:893
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:88
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:100
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:112
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:139
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:162
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:98
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:40
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:51
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:62
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:79
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:99
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:50
+msgid "No"
+msgstr ""
+
+#: templates/rating-review-form-guest.php:61
+#: templates/rating-review-user-dashboard.php:210
+#, php-format
+msgid "No account yet? <a href=\"%s\">Register</a>"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:188
+msgid "No data Found"
+msgstr ""
+
+#: templates/widgets/latest_ratings.php:58
+#: templates/widgets/most_rated_posts.php:49
+msgid "No item found"
+msgstr ""
+
+#: includes/class-cbxscratingreview-rating-avg-logs.php:341
+msgid ""
+"No rating average found. Please change your search criteria for better "
+"result."
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:630
+msgid "No review found. Please change your search criteria for better result."
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:1028
+#: public/class-cbxscratingreview-public.php:707
+#: templates/rating-review-reviews-list.php:41
+msgid "No reviews yet!"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1225
+#: admin/class-cbxscratingreview-admin.php:1262
+#: public/class-cbxscratingreview-public.php:670
+#: public/class-cbxscratingreview-public.php:704
+msgid "Not rated yet!"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:214
+msgid "now"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1058
+#: admin/class-cbxscratingreview-admin.php:1103
+msgid "Number of items per page"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1268
+msgid "Ok"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:888
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:535
+#: admin/class-cbxscratingreview-admin.php:638
+#: admin/class-cbxscratingreview-admin.php:730
+msgid "On/Off"
+msgstr ""
+
+#: templates/rating-review-editform.php:132 templates/rating-review-form.php:57
+#: templates/admin/admin-rating-review-review-log-edit.php:147
+msgid "One line review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:50
+msgid "Orange"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:47
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:47
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:50
+msgid "Order"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:44
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:39
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:39
+msgid "Order By"
+msgstr ""
+
+#: templates/admin/dashboard.php:154 templates/admin/sidebar.php:24
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:110
+msgctxt "Page slug"
+msgid "reviewdashboard"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:120
+msgctxt "Page slug"
+msgid "reviewdetails"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:115
+msgctxt "Page slug"
+msgid "reviewedit"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:116
+msgctxt "Page title"
+msgid "Edit Review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:121
+msgctxt "Page title"
+msgid "Review Details"
+msgstr ""
+
+#: includes/class-cbxscratingreview-activator.php:111
+msgctxt "Page title"
+msgid "Reviewer Dashboard"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:155
+msgid "Pages & Tools"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:345
+msgid "Pending"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:148
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:120
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:88
+msgid "Per Page"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:63
+msgid "Per Pages"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:42
+msgid "Pink"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:548
+#: admin/class-cbxscratingreview-admin.php:651
+#: admin/class-cbxscratingreview-admin.php:743
+msgid "Plain"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:191
+msgid ""
+"Please <a href=\"#\">login</a> to access your ratings & reviews dashboard"
+msgstr ""
+
+#: templates/rating-review-form-guest.php:44
+msgid "Please <a href=\"#\">login</a> to rate and review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1244
+#: public/class-cbxscratingreview-public.php:689
+msgid "Please check the captcha."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1234
+#: public/class-cbxscratingreview-public.php:679
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1233
+#: public/class-cbxscratingreview-public.php:678
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1231
+#: public/class-cbxscratingreview-public.php:676
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1235
+#: public/class-cbxscratingreview-public.php:680
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1232
+#: public/class-cbxscratingreview-public.php:677
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1240
+#: public/class-cbxscratingreview-public.php:685
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1241
+#: public/class-cbxscratingreview-public.php:686
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1243
+#: public/class-cbxscratingreview-public.php:688
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1242
+#: public/class-cbxscratingreview-public.php:687
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1239
+#: public/class-cbxscratingreview-public.php:684
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1238
+#: public/class-cbxscratingreview-public.php:683
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1236
+#: public/class-cbxscratingreview-public.php:681
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1237
+#: public/class-cbxscratingreview-public.php:682
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1230
+#: public/class-cbxscratingreview-public.php:675
+msgid "Please fix this field."
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:511
+msgid "Please login to edit review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1532
+#: public/class-cbxscratingreview-public.php:929
+#: public/class-cbxscratingreview-public.php:1148
+msgid "Please provide review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1529
+#: public/class-cbxscratingreview-public.php:925
+#: public/class-cbxscratingreview-public.php:1145
+msgid "Please provide title"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1364
+#: includes/class-cbxscratingreview-setting.php:470
+msgid "Please Select"
+msgstr ""
+
+#: templates/rating-review-editform.php:162 templates/rating-review-form.php:87
+#: templates/admin/admin-rating-review-review-log-edit.php:189
+msgid ""
+"Please wait, we are taking account of your review. Do not close this window."
+msgstr ""
+
+#: templates/admin/sidebar.php:16
+msgid "Plugin Details"
+msgstr ""
+
+#: templates/admin/sidebar.php:17
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:318
+msgid "Poor"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:420
+msgid "Positve Review Score value"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2012
+#: admin/class-cbxscratingreview-admin.php:2040
+#: includes/class-cbxscratingreview-rating-avg-logs.php:132
+#: includes/class-cbxscratingreview-review-logs.php:296
+#: templates/rating-review-editform.php:98
+#: templates/rating-review-user-dashboard.php:66
+#: templates/admin/admin-rating-review-review-log-edit.php:107
+#: templates/admin/admin-rating-review-review-log-view.php:116
+msgid "Post"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:27
+msgid "Post Avg Rating Widget"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:28
+msgid "Post Avg Rating Widget Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:115
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:116
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:111
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:108
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:65
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:65
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:59
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:51
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:41
+msgid "Post ID"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:35
+msgid "Post Reviews Widget"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:36
+msgid "Post Reviews Widget Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2041
+#: includes/class-cbxscratingreview-rating-avg-logs.php:133
+msgid "Post Title"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2015
+#: includes/class-cbxscratingreview-review-logs.php:299
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:109
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:52
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:56
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:64
+msgid "Post Type"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:138
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:138
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:83
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:82
+msgid "Post type"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:235
+msgid "Post Type Support"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:36
+msgid "Post's Avg Rating"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:78
+msgid "Post's Avg Rating Widget Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:36
+msgid "Post's Reviews"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:84
+msgid "Post's Reviews Widget Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1735
+msgid "Pro Support"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:346
+msgid "Published"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:43
+msgid "Purple"
+msgstr ""
+
+#. Description of the plugin
+msgid "Quick 5 star single Criteria Rating & Review for WordPress"
+msgstr ""
+
+#: templates/admin/dashboard.php:224
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/admin/dashboard.php:251
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/rating-review-reviews-list-item.php:55
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:67
+#: templates/admin/admin-rating-review-review-log-view.php:125
+msgid "Rating"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:983
+msgid "Rating Average"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:983
+msgid "Rating Average Listing"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:43
+msgid "Rating Count"
+msgstr ""
+
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:40
+msgid "Rating ID"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-logs.php:28
+msgid "Rating Log Manager"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:46
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:42
+msgid "Rating Score"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:116
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:110
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:66
+msgid "Rating Score Value"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:111
+msgid "Rating Status"
+msgstr ""
+
+#: templates/admin/dashboard.php:243
+msgid "Read the CBX 5 Star Rating & Review User Guide"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:41
+msgid "Red"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:319
+msgid "Regular"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:576
+#: admin/class-cbxscratingreview-admin.php:678
+#: admin/class-cbxscratingreview-admin.php:770
+msgid "Reply To"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:679
+#: admin/class-cbxscratingreview-admin.php:771
+msgid "Reply To Email Address."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:577
+msgid "Reply To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:899
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:900
+#, php-format
+msgid ""
+"Reset option values and all tables created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:37
+#: templates/rating-review-reviews-list-item.php:64
+#: templates/widgets/most_rated_posts.php:41
+#: templates/widgets/most_rated_posts.php:41
+msgid "Review"
+msgid_plural "Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-cbxscratingreview-admin.php:151
+msgid "Review Alerts"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:409
+msgid "Review Avg Table"
+msgstr ""
+
+#: templates/rating-review-reviews-list-item.php:47
+#, php-format
+msgid "Review Created on: %s "
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1320
+msgid "Review delete is not possible. Please contact site authority."
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1345
+msgid "Review deleted failed!"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1343
+msgid "Review deleted successfully!"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:36
+msgid "Review Form"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:27
+msgid "Review Form Widget"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:78
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:28
+msgid "Review Form Widget Settings"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:154
+#, php-format
+msgid "Review Heading: %s"
+msgstr ""
+
+#: templates/rating-review-editform.php:131
+msgid "Review Headline"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-editreview-elemwidget.php:89
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:110
+#: widgets/elementor_widgets/class-cbxscratingreview-singlereview-elemwidget.php:89
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:107
+#: widgets/vc_widgets/class-cbxscratingreview-editreview-vcwidget.php:38
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:58
+#: widgets/vc_widgets/class-cbxscratingreview-singlereview-vcwidget.php:38
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:50
+msgid "Review ID"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:114
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:64
+msgid "Review id"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1322
+msgid "Review id is invalid"
+msgstr ""
+
+#: templates/rating-review-editform.php:40
+#: templates/admin/admin-rating-review-review-log-edit.php:38
+#, php-format
+msgid "Review Log ID: %d"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:32
+msgid "Review Log Readonly View"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:408
+msgid "Review Log Table"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:53
+msgid "Review Score"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:54
+msgid "Review Status"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:780
+#: includes/class-cbxscratingreview-emailalert.php:190
+msgid "Review Status Change Notification"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:787
+#: includes/class-cbxscratingreview-emailalert.php:191
+msgid "Review Status Changed"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:791
+msgid "Review Status Modification Email Body"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:784
+msgid "Review Status Modification Email Heading"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:777
+msgid "Review Status Modification Email Subject"
+msgstr ""
+
+#: templates/admin/sidebar.php:18
+msgid "Review This Plugin"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1635
+#: public/class-cbxscratingreview-public.php:1237
+msgid "Review updated successfully"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:297
+msgid "Reviewed"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1737
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:428
+msgid "Reviews Per Page"
+msgstr ""
+
+#: includes/class-cbxscratingreview-setting.php:766
+#: templates/admin/settings-display.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2014
+#: includes/class-cbxscratingreview-review-logs.php:298
+#: templates/rating-review-reviews-list-filter.php:36
+msgid "Score"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-avg-logs.php:42
+msgid "Search Rating Avg Log"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-logs.php:42
+msgid "Search Review Log"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1366
+msgid "Select Media"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:421
+msgid "Select minimum score value for a positive review"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:98
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:98
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:94
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:91
+msgid "Select order"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:112
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:112
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:108
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:105
+msgid "Select order by"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:881
+msgid ""
+"Select page which will show the single review dynamically. That page must "
+"have the shortcode <code>[cbxscratingreview_singlereview]</code>."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:873
+msgid ""
+"Select page which will show the single review edit dynamically. That page "
+"must have the shortcode <code>[cbxscratingreview_editreview]</code>."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:865
+msgid ""
+"Select page which will show the the logged in user's dashboard to manage "
+"rating and reviews. That page must have the shortcode <code>"
+"[cbxscratingreview_userdashboard]</code>."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:241
+#: admin/class-cbxscratingreview-admin.php:324
+msgid "Select Post Type"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:140
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:141
+msgid "Select post type"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:122
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:125
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:67
+msgid "Select Score"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:543
+#: admin/class-cbxscratingreview-admin.php:646
+#: admin/class-cbxscratingreview-admin.php:738
+msgid "Select the format of the E-mail."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:257
+#: admin/class-cbxscratingreview-admin.php:274
+msgid "Select user roles"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1707
+#: includes/class-cbxscratingreview-helper.php:2595
+#: templates/admin/settings-display.php:46
+msgid "Settings"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:109
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:58
+msgid "Show Chart"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:387
+msgid "Show Comment"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:136
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:75
+msgid "Show Filter"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:436
+msgid "Show filter box in review listing"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:95
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:46
+msgid "Show Guest Login Form"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:365
+msgid "Show Headline"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:159
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:95
+msgid "Show More"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:353
+msgid "Show on Archives(Auto Integration)"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:341
+msgid "Show on Home/Frontpage(Auto Integration)"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:328
+msgid "Show on Single(Auto Integration)"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:454
+msgid "Show Register link to guest"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:455
+msgid ""
+"Show register link to guest, depends on if registration is enabled in "
+"wordpress core"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:435
+msgid "Show Review Filter"
+msgstr ""
+
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:36
+msgid "Show Score"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:85
+msgid "Show Score count"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:97
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:47
+msgid "Show Star"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:388
+msgid "Show/hide comment in rating form"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:188
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:366
+msgid "Show/hide review headline in rating form"
+msgstr ""
+
+#: templates/rating-review-editform.php:172
+#: templates/admin/admin-rating-review-review-log-edit.php:199
+msgid "Sorry No data Found"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1265
+msgid "Sorry! delete failed!"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1519
+#: public/class-cbxscratingreview-public.php:916
+#: public/class-cbxscratingreview-public.php:1135
+msgid "Sorry! Invalid post. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1524
+#: public/class-cbxscratingreview-public.php:920
+#: public/class-cbxscratingreview-public.php:1140
+msgid "Sorry! Invalid rating score. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1510
+#: public/class-cbxscratingreview-public.php:1121
+msgid "Sorry! Invalid review id. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1514
+#: public/class-cbxscratingreview-public.php:1125
+msgid "Sorry! Invalid review. Please check and try again."
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:713
+msgid "Sorry! Review delete failed!"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1270
+msgid "Sorry! Some problem during deletion."
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1062
+msgid "Sorry! You already rated this or multiple reviews is not possible."
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:37
+msgid "Sorry, no reviews found."
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:342
+msgid "Sorry, review not found"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:307
+msgid "Sorry, review not found or unpublished"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:543
+msgid "Sorry, you can edit only pending or published review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:348
+msgid "Spam"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2023
+#: includes/class-cbxscratingreview-review-logs.php:307
+#: templates/rating-review-user-dashboard.php:70
+#: templates/admin/admin-rating-review-review-log-edit.php:176
+#: templates/admin/admin-rating-review-review-log-view.php:147
+msgid "Status"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:639
+#: admin/class-cbxscratingreview-admin.php:731
+msgid "Status of Email"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:583
+msgid "Subject"
+msgstr ""
+
+#: templates/rating-review-editform.php:163
+#: templates/admin/admin-rating-review-review-log-edit.php:190
+msgid "Submit Edit"
+msgstr ""
+
+#: templates/rating-review-form.php:88
+msgid "Submit Rating & Review"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:48
+msgid "Teal"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1012
+#, php-format
+msgid "Thank you for your rating and review. You rated %s"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1782
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX 5 Star Rating & "
+"Review</strong> V%s - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1795
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX 5 Star Rating & Review</strong> V%s , enjoy "
+"the new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:505
+msgid "The background color of the email."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:512
+msgid "The background colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:498
+msgid "The base color of the email."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:519
+msgid "The body text colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:491
+msgid ""
+"The text to appear at the email footer. Syntax available - <code>{sitename}"
+"</code>"
+msgstr ""
+
+#: templates/admin/dashboard.php:102
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1229
+#: public/class-cbxscratingreview-public.php:674
+msgid "This field is required."
+msgstr ""
+
+#: templates/rating-review-form.php:57
+#: templates/admin/admin-rating-review-review-log-edit.php:146
+#: widgets/elementor_widgets/class-cbxscratingreview-lratings-elemwidget.php:85
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:85
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:85
+#: widgets/vc_widgets/class-cbxscratingreview-lratings-vcwidget.php:42
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:41
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:38
+#: widgets/classic_widgets/cbxscratingreviewlratings/views/admin.php:21
+#: widgets/classic_widgets/cbxscratingreviewmrposts/views/admin.php:21
+msgid "Title"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:568
+#: admin/class-cbxscratingreview-admin.php:671
+#: admin/class-cbxscratingreview-admin.php:763
+msgid "To Email"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:569
+msgid "To Email Address."
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:672
+#: admin/class-cbxscratingreview-admin.php:764
+msgid "To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:266
+msgid "Tomorrow"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:858
+msgid "Tools Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2043
+#: includes/class-cbxscratingreview-rating-avg-logs.php:135
+msgid "Total"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-mrposts-elemwidget.php:115
+#: widgets/vc_widgets/class-cbxscratingreview-mrposts-vcwidget.php:64
+msgid "Total Ratings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1708
+msgid "Translations"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1741
+msgid "Try Pro Addons"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:132
+msgid "Unknown"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:347
+msgid "Unpublished"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:88
+msgid "Untitled Article"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:55
+#: templates/admin/admin-rating-review-review-log-view.php:87
+msgid "Untitled article"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1365
+msgid "Upload"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:2013
+#: includes/class-cbxscratingreview-review-logs.php:297
+msgid "User"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:36
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:27
+msgid "User Dashboard"
+msgstr ""
+
+#: widgets/elementor_widgets/class-cbxscratingreview-userdashboard-elemwidget.php:81
+#: widgets/vc_widgets/class-cbxscratingreview-userdashboard-vcwidget.php:28
+msgid "User Dashboard Widget Settings"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1013
+msgid "User Reviews"
+msgstr ""
+
+#: includes/class-cbxscratingreview-rating-avg-logs.php:92
+msgid "View All"
+msgstr ""
+
+#: includes/class-cbxscratingreview-review-logs.php:41
+#: templates/rating-review-user-dashboard.php:108
+#: templates/rating-review-user-dashboard.php:112
+msgid "View Review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1707
+#: includes/class-cbxscratingreview-helper.php:2595
+msgid "View settings"
+msgstr ""
+
+#: includes/class-cbxscratingreview-rating-avg-logs.php:62
+msgid "Visit Post"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:301
+msgid "What will be status when a new review is written?"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:236
+msgid "Which post types can have the rating & review features"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:262
+msgid "Which user role will have view capability"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:246
+msgid "Which user role will have vote capability"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:245
+msgid "Who Can give Rate & Review"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:261
+msgid "Who Can View Rating & Review"
+msgstr ""
+
+#: templates/admin/dashboard.php:118
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:2657
+msgid "WordPress Core Login Form"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:91
+#: templates/admin/admin-rating-review-review-log-view.php:98
+msgid "Written By"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:283
+#: admin/class-cbxscratingreview-admin.php:294
+#: admin/class-cbxscratingreview-admin.php:313
+#: admin/class-cbxscratingreview-admin.php:334
+#: admin/class-cbxscratingreview-admin.php:347
+#: admin/class-cbxscratingreview-admin.php:359
+#: admin/class-cbxscratingreview-admin.php:370
+#: admin/class-cbxscratingreview-admin.php:381
+#: admin/class-cbxscratingreview-admin.php:392
+#: admin/class-cbxscratingreview-admin.php:403
+#: admin/class-cbxscratingreview-admin.php:414
+#: admin/class-cbxscratingreview-admin.php:440
+#: admin/class-cbxscratingreview-admin.php:459
+#: admin/class-cbxscratingreview-admin.php:892
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:87
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:99
+#: widgets/elementor_widgets/class-cbxscratingreview-postavgrating-elemwidget.php:111
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:138
+#: widgets/elementor_widgets/class-cbxscratingreview-postreviews-elemwidget.php:161
+#: widgets/elementor_widgets/class-cbxscratingreview-reviewform-elemwidget.php:97
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:39
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:50
+#: widgets/vc_widgets/class-cbxscratingreview-postavgrating-vcwidget.php:61
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:78
+#: widgets/vc_widgets/class-cbxscratingreview-postreviews-vcwidget.php:98
+#: widgets/vc_widgets/class-cbxscratingreview-reviewform-vcwidget.php:49
+msgid "Yes"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:235
+msgid "Yesterday"
+msgstr ""
+
+#: includes/class-cbxscratingreview-helper.php:2477
+#, php-format
+msgid "You already rated & reviewed this. You rated %s"
+msgstr ""
+
+#: public/class-cbxscratingreview-public.php:1324
+msgid "You are not logged in and you don't own the review. Area you cheating?"
+msgstr ""
+
+#: admin/class-cbxscratingreview-admin.php:1537
+#: public/class-cbxscratingreview-public.php:934
+#: public/class-cbxscratingreview-public.php:1153
+msgid "You aren't currently logged in. Please login to rate."
+msgstr ""
+
+#: templates/rating-review-user-rating-readonly.php:25
+msgid "You rated this "
+msgstr ""
+
+#: templates/rating-review-editform.php:124 templates/rating-review-form.php:51
+#: templates/admin/admin-rating-review-review-log-edit.php:141
+msgid "Your rating"
+msgstr ""
+
+#: templates/rating-review-editform.php:137 templates/rating-review-form.php:62
+#: templates/admin/admin-rating-review-review-log-edit.php:150
+msgid "Your Review"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:57
+msgid "Your Reviews & Ratings"
+msgstr ""
